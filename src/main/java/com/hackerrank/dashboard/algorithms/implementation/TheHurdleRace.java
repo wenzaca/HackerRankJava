@@ -1,4 +1,4 @@
-package com.hackerrank.dashboard.algorithms.wimplementation;
+package com.hackerrank.dashboard.algorithms.implementation;
 
 	import java.util.Scanner;
 
