@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.strings;
 
 import java.util.Scanner;
 
-public class Desafio4 {
+public class StringReverse {
 
 	public static void main(String[] args) {
 

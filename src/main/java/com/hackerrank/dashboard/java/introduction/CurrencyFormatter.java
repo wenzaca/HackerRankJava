@@ -6,7 +6,7 @@ import java.text.ParseException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class JavaCurrencyFormatter {
+public class CurrencyFormatter {
 
 	public static void main(String[] args) throws ParseException {
 		Scanner scanner = new Scanner(System.in);

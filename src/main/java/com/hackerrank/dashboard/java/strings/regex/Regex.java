@@ -1,8 +1,8 @@
-package com.hackerrank.dashboard.java.strings;
+package com.hackerrank.dashboard.java.strings.regex;
 
 import java.util.Scanner;
 
-public class Desafio8 {
+public class Regex {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		while (in.hasNext()) {

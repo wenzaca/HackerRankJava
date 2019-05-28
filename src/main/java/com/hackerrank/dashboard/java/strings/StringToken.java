@@ -3,7 +3,7 @@ package com.hackerrank.dashboard.java.strings;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Desafio6 {
+public class StringToken {
 	public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();

@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.strings;
 
 import java.util.Scanner;
 
-public class Desafio2 {
+public class Substring {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String S = in.next();

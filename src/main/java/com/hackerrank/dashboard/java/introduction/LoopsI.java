@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.introduction;
 
 import java.util.Scanner;
 
-public class JavaLoopsI {
+public class LoopsI {
 	public static void main(String[] args) {
 	       Scanner sc = new Scanner(System.in);
 	        int n = sc.nextInt();

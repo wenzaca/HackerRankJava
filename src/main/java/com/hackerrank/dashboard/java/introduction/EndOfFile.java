@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.introduction;
 
 import java.util.Scanner;
 
-public class JavaEndOfFile {
+public class EndOfFile {
 
 	public static void main(String[] args) {
 		 Scanner scan = new Scanner(System.in);

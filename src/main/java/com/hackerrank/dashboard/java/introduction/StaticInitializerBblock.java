@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.introduction;
 
 import java.util.Scanner;
 
-public class JavaStaticInitializerBblock {
+public class StaticInitializerBblock {
 
 	static Scanner sc = new Scanner(System.in);
 	private static int H = sc.nextInt();

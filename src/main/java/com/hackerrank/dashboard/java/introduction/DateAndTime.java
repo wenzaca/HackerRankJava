@@ -4,7 +4,7 @@ import java.util.Calendar;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class JavaDateAndTime {
+public class DateAndTime {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

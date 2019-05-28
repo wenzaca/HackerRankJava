@@ -2,7 +2,7 @@ package com.hackerrank.dashboard.java.introduction;
 
 import java.util.Scanner;
 
-public class JavaIntToString {
+public class IntToString {
 
 	public static void main(String[] args) {
 
