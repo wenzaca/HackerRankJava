@@ -21,11 +21,11 @@ For example, given the string AABAAB, remove an A at positions 0 and 3 to make A
 public class AlternatingCharacter {
     // Complete the alternatingCharacters function below.
     static int alternatingCharacters(String s) {
-        if(s==null || s.isEmpty()) return 0;
+        if (s == null || s.isEmpty()) return 0;
         StringBuffer sb = new StringBuffer();
-        int result=0;
-        for (Character c : s.toCharArray()){
-            if(sb.length()==0 || sb.charAt(sb.length()-1)!=c)
+        int result = 0;
+        for (Character c : s.toCharArray()) {
+            if (sb.length() == 0 || sb.charAt(sb.length() - 1) != c)
                 sb.append(c);
             else result++;
         }
@@ -51,7 +51,7 @@ public class AlternatingCharacter {
     }
 
     @Test
-    public void testSolution(){
+    public void testSolution() {
         Assert.assertThat(AlternatingCharacter.alternatingCharacters("AABAAB"), is(2));
         Assert.assertThat(AlternatingCharacter.alternatingCharacters("AABAABABBABBBA"), is(5));
         Assert.assertThat(AlternatingCharacter.alternatingCharacters("AAAAA"), is(4));

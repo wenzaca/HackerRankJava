@@ -27,19 +27,19 @@ public class MarkAndToys {
         int result = 0, counter = 0;
         if (prices[counter] > k) return 0;
         if (prices[counter] == k) return 1;
-        while(result+(prices[counter]) <k) {
-            result+= prices[counter];
+        while (result + (prices[counter]) < k) {
+            result += prices[counter];
             counter++;
-            if(counter==prices.length) return counter;
+            if (counter == prices.length) return counter;
         }
         return counter;
     }
 
     @Test
     public void testToyPriceCanBuy() {
-        int[] test1 = {1,2,3,4};
-        int[] test2 = {1,12,5,111,200,1000,10};
-        int[] test3 = {2,12,5,111,200,1000,10};
+        int[] test1 = {1, 2, 3, 4};
+        int[] test2 = {1, 12, 5, 111, 200, 1000, 10};
+        int[] test3 = {2, 12, 5, 111, 200, 1000, 10};
         Assert.assertThat(3, is(maximumToys(test1, 7)));
         Assert.assertThat(4, is(maximumToys(test2, 50)));
         Assert.assertThat(0, is(maximumToys(test3, 1)));

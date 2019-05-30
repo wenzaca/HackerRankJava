@@ -3,7 +3,8 @@ package com.hackerrank.interview.greeding;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 import static org.hamcrest.CoreMatchers.is;
 
@@ -20,18 +21,16 @@ public class MinimumAbsoluteDifferenceArray {
     // Complete the minimumAbsoluteDifference function below.
     static int minimumAbsoluteDifference(Integer[] arr) {
 
-      int resLow=Integer.MAX_VALUE;
+        int resLow = Integer.MAX_VALUE;
 
-      Arrays.sort(arr);
+        Arrays.sort(arr);
 
-      for(int i =0; i<arr.length-1;i++){
-          Integer value = arr[i];
-          Integer nextValue = arr[i+1];
-          Integer abs = Math.abs(value-nextValue);
-          if(abs<resLow){
-               resLow = abs;
-          }
-      }
+        for (int i = 0; i < arr.length - 1; i++) {
+            Integer abs = Math.abs(arr[i] - arr[i + 1]);
+            if (abs < resLow) {
+                resLow = abs;
+            }
+        }
 
         return resLow;
     }
@@ -57,6 +56,7 @@ public class MinimumAbsoluteDifferenceArray {
 
         scanner.close();
     }
+
     @Test
     public void testSolution() {
         Assert.assertThat(minimumAbsoluteDifference(new Integer[]{1, -3, 71, 68, 17}), is(3));

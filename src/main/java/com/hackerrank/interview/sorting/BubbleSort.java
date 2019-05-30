@@ -3,10 +3,10 @@ package com.hackerrank.interview.sorting;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.hamcrest.CoreMatchers.is;
-
 import java.util.Arrays;
 import java.util.List;
+
+import static org.hamcrest.CoreMatchers.is;
 
 /*
 Given an array of integers, sort the array in ascending order using the Bubble Sort algorithm above. Once sorted, print the following three lines:
@@ -19,8 +19,8 @@ https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&pla
 */
 public class BubbleSort {
 
-    private static List<String> countSwap(int[] array){
-        int result =0;
+    private static List<String> countSwap(int[] array) {
+        int result = 0;
         for (int i = 0; i < array.length; i++) {
 
             for (int j = 0; j < array.length - 1; j++) {
@@ -32,20 +32,20 @@ public class BubbleSort {
             }
         }
 
-        return Arrays.asList("Array is sorted in "+result+" swaps.","First Element: "+array[0],"Last Element: "+array[array.length-1]);
+        return Arrays.asList("Array is sorted in " + result + " swaps.", "First Element: " + array[0], "Last Element: " + array[array.length - 1]);
     }
 
-    private static void swap(int[] array, int i, int j){
+    private static void swap(int[] array, int i, int j) {
         int tmp = array[i];
         array[i] = array[j];
         array[j] = tmp;
     }
 
     @Test
-    public void  validateCountOfSwaps(){
-        Assert.assertThat(countSwap(new int[]{3,2,1}), is(Arrays.asList("Array is sorted in 3 swaps.","First Element: 1","Last Element: 3")));
-        Assert.assertThat(countSwap(new int[]{6,4,1}), is(Arrays.asList("Array is sorted in 3 swaps.","First Element: 1","Last Element: 6")));
-        Assert.assertThat(countSwap(new int[]{1,3,1}), is(Arrays.asList("Array is sorted in 1 swaps.","First Element: 1","Last Element: 3")));
+    public void validateCountOfSwaps() {
+        Assert.assertThat(countSwap(new int[]{3, 2, 1}), is(Arrays.asList("Array is sorted in 3 swaps.", "First Element: 1", "Last Element: 3")));
+        Assert.assertThat(countSwap(new int[]{6, 4, 1}), is(Arrays.asList("Array is sorted in 3 swaps.", "First Element: 1", "Last Element: 6")));
+        Assert.assertThat(countSwap(new int[]{1, 3, 1}), is(Arrays.asList("Array is sorted in 1 swaps.", "First Element: 1", "Last Element: 3")));
     }
 
 

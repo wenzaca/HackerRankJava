@@ -3,7 +3,9 @@ package com.hackerrank.interview.dictionarieshashmaps;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 import static org.hamcrest.CoreMatchers.is;
 
@@ -16,11 +18,9 @@ public class SherlockAndAnagrams {
         int totalCount = 0;
 
         // Generate all substrings (N^2)
-        for(int i = 0 ; i < s.length(); i++)
-        {
-            for(int j=i+1 ; j <= s.length(); j++)
-            {
-                String currentSubString = s.substring(i,j);
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i + 1; j <= s.length(); j++) {
+                String currentSubString = s.substring(i, j);
 
                 // Sort all strings E.g. ab & ba both == ab now
                 char[] chars = currentSubString.toCharArray();
@@ -39,7 +39,7 @@ public class SherlockAndAnagrams {
     }
 
     @Test
-    public void checkAnagram(){
+    public void checkAnagram() {
         String test1 = "abba";
         String test2 = "ifailuhkqq";
         String test3 = "kkkk";
