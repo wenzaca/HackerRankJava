@@ -25,6 +25,7 @@ Contact: wenzaca@gmail.com
         E   /LuckBalance: https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         E   /MinimumAbsolutDifferenceArray: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         M   /GreedyFlorist: https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
+        M   /MaxMin: https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         /sorting
         E   /BubbleSort: https://www.hackerrank.com/challenges/ctci-bubble-sort?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
         E   /MarkAndToys: https://www.hackerrank.com/challenges/mark-and-toys?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
