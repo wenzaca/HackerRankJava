@@ -32,6 +32,7 @@ Contact: wenzaca@gmail.com
         M   /SortingComparator: https://www.hackerrank.com/challenges/ctci-comparator-sorting?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
         H   /MergeSort: https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
         /stackqueue
+        M   /BalancedBrackets: https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues
         M   /TaleOfTwoStacks: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues
         /stringmanipulation
         E   /AlternatingCharacter: https://www.hackerrank.com/challenges/alternating-characters?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
