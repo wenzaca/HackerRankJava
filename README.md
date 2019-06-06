@@ -26,6 +26,8 @@ Contact: wenzaca@gmail.com
         E   /MinimumAbsolutDifferenceArray: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         M   /GreedyFlorist: https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         M   /MaxMin: https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
+        /linkedlist
+        E   /NodeSpecificPosition: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
         /sorting
         E   /BubbleSort: https://www.hackerrank.com/challenges/ctci-bubble-sort?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
         E   /MarkAndToys: https://www.hackerrank.com/challenges/mark-and-toys?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
