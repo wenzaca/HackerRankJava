@@ -28,6 +28,7 @@ Contact: wenzaca@gmail.com
         M   /MaxMin: https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         /linkedlist
         E   /NodeSpecificPosition: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
+        E   /NodeInsertSortedDoublyList: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
         /sorting
         E   /BubbleSort: https://www.hackerrank.com/challenges/ctci-bubble-sort?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
         E   /MarkAndToys: https://www.hackerrank.com/challenges/mark-and-toys?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
