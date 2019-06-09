@@ -21,6 +21,8 @@ Contact: wenzaca@gmail.com
         M   /CountTriplet: https://www.hackerrank.com/challenges/count-triplets-1?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
         M   /FrequencyQueries: https://www.hackerrank.com/challenges/frequency-queries?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps --> TODO
         M   /SherlockAndAnagrams: https://www.hackerrank.com/challenges/sherlock-and-anagrams?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps        
+        /dynamicprogramming
+        M   /MaxArraySum: https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming
         /greeding  
         E   /LuckBalance: https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
         E   /MinimumAbsolutDifferenceArray: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
