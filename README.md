@@ -45,6 +45,8 @@ Contact: wenzaca@gmail.com
         E   /MakingAnagrams: https://www.hackerrank.com/challenges/ctci-making-anagrams?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
         M   /SherlockValidString: https://www.hackerrank.com/challenges/sherlock-and-valid-string?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
         M   /SpecialPalindromo: https://www.hackerrank.com/challenges/special-palindrome-again?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings --> TODO
+        /tree
+        E   /HeightOfBinaryTree: https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
         /warmup
         E   /CountingValleys: https://www.hackerrank.com/challenges/counting-valleys?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
         E   /JumpingOnTheClouds: https://www.hackerrank.com/challenges/jumping-on-the-clouds?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
