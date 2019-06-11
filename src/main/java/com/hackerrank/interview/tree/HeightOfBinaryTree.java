@@ -6,18 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Node {
-    Node left;
-    Node right;
-    int data;
-
-    Node(int data) {
-        this.data = data;
-        left = null;
-        right = null;
-    }
-}
-
 public class HeightOfBinaryTree {
 
     /*
@@ -35,7 +23,7 @@ public class HeightOfBinaryTree {
         while (true) {
             int counter = 0;
             int previouslySize = queue.size();
-            while (previouslySize!=counter) {
+            while (previouslySize != counter) {
                 Node first = queue.removeFirst();
                 if (first.left != null) {
                     queue.add(first.left);
@@ -48,7 +36,7 @@ public class HeightOfBinaryTree {
             result++;
             if (queue.isEmpty()) break;
         }
-        return result-1;
+        return result - 1;
     }
 
     private boolean containsNodeRecursive(Node current) {
