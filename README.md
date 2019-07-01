@@ -23,6 +23,7 @@ Contact: wenzaca@gmail.com
             E   BeautifulDaysAtTheMovies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
             E   BetweenTwoSets: https://www.hackerrank.com/challenges/between-two-sets/problem
             E   BreakingTheRecords: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+            E   DayOfTheProgrammer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
             E   DesignerPDFViewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
             E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
             E   Kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
