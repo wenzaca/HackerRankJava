@@ -19,6 +19,7 @@ Contact: wenzaca@gmail.com
             E   Staircase: https://www.hackerrank.com/challenges/staircase/problem
             /implementation
             E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+            E   MigrationBirds: https://www.hackerrank.com/challenges/migratory-birds/problem
     /interview
         /array
         E   /Array2D: https://www.hackerrank.com/challenges/2d-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
