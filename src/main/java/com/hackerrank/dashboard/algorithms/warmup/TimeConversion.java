@@ -1,4 +1,4 @@
-package com.hackerrank.dashboard.algorithms.implementation;
+package com.hackerrank.dashboard.algorithms.warmup;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

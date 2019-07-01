@@ -17,9 +17,18 @@ Contact: wenzaca@gmail.com
             E   CompareTheTriplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
             E   DiagonalDifference: https://www.hackerrank.com/challenges/diagonal-difference/problem
             E   Staircase: https://www.hackerrank.com/challenges/staircase/problem
+            E   TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
             /implementation
+            E   AngryProfessor: https://www.hackerrank.com/challenges/angry-professor/problem
+            E   BeautifulDaysAtTheMovies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+            E   BetweenTwoSets: https://www.hackerrank.com/challenges/between-two-sets/problem
+            E   BreakingTheRecords: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+            E   DesignerPDFViewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
             E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+            E   Kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
+            E   TheHurdleRace: https://www.hackerrank.com/challenges/the-hurdle-race/problem
             E   MigrationBirds: https://www.hackerrank.com/challenges/migratory-birds/problem
+            E   UtopianTree: https://www.hackerrank.com/challenges/utopian-tree/problem
     /interview
         /array
         E   /Array2D: https://www.hackerrank.com/challenges/2d-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
