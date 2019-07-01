@@ -11,6 +11,12 @@ Contact: wenzaca@gmail.com
     
     /dashboard
         /algorithms
+            /warmup
+            E   MiniMaxSum: https://www.hackerrank.com/challenges/mini-max-sum/problem
+            E   BirthdayCakeCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+            E   CompareTheTriplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+            E   DiagonalDifference: https://www.hackerrank.com/challenges/diagonal-difference/problem
+            E   Staircase: https://www.hackerrank.com/challenges/staircase/problem
             /implementation
             E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
     /interview
