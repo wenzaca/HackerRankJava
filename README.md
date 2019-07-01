@@ -8,7 +8,11 @@ Fell free to reach me out with better solutions. I would love to get mine improv
 The classes may have junit 4 for testing. Asserts have been used as well.
 
 Contact: wenzaca@gmail.com
-
+    
+    /dashboard
+        /algorithms
+            /implementation
+            E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
     /interview
         /array
         E   /Array2D: https://www.hackerrank.com/challenges/2d-array?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
