@@ -3,54 +3,56 @@ package com.hackerrank.dashboard.algorithms.implementation;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Stream;
+
+import static java.util.stream.Collectors.toList;
 import static org.hamcrest.CoreMatchers.is;
 
+public class BonAppetit {
 
-import java.util.Scanner;
+    // Complete the bonAppetit function below.
+    static String bonAppetit(List<Integer> bill, int k, int b) {
 
-public class DivisibleSumPairs {
-
-    // Complete the divisibleSumPairs function below.
-    static int divisibleSumPairs(int n, int k, int[] ar) {
-
+        int counter = 0;
         int result = 0;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if ((ar[i] + ar[j]) % k == 0) result++;
-
+        for (Integer eachBill : bill) {
+            if (counter != k) {
+                result += eachBill;
             }
+            counter++;
         }
-        return result;
+        result = b - result / 2;
+        return result == 0 ? "Bon Appetit" : String.valueOf(result);
     }
 
-    private static final Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-    public static void main(String[] args) {
-
-        String[] nk = scanner.nextLine().split(" ");
+        String[] nk = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
 
         int n = Integer.parseInt(nk[0]);
 
         int k = Integer.parseInt(nk[1]);
 
-        int[] ar = new int[n];
+        List<Integer> bill = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+                .map(Integer::parseInt)
+                .collect(toList());
 
-        String[] arItems = scanner.nextLine().split(" ");
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        int b = Integer.parseInt(bufferedReader.readLine().trim());
 
-        for (int i = 0; i < n; i++) {
-            int arItem = Integer.parseInt(arItems[i]);
-            ar[i] = arItem;
-        }
+        System.out.println(bonAppetit(bill, k, b));
 
-        int result = divisibleSumPairs(n, k, ar);
-
-        System.out.println(String.valueOf(result));
-
+        bufferedReader.close();
     }
 
     @Test
-    public void testSolution(){
-        Assert.assertThat(divisibleSumPairs(6,3, new int[]{1,3,2,6,1,2}),is(5));
+    public void testSolution() {
+        Assert.assertThat(bonAppetit(Arrays.asList(3, 10, 2, 9), 1, 12), is("5"));
+        Assert.assertThat(bonAppetit(Arrays.asList(3, 10, 2, 9), 1, 7), is("Bon Appetit"));
     }
 }
