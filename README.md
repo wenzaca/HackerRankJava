@@ -11,27 +11,58 @@ Contact: wenzaca@gmail.com
     
     /dashboard
         /algorithms
-            /warmup
-            E   MiniMaxSum: https://www.hackerrank.com/challenges/mini-max-sum/problem
-            E   BirthdayCakeCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-            E   CompareTheTriplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
-            E   DiagonalDifference: https://www.hackerrank.com/challenges/diagonal-difference/problem
-            E   Staircase: https://www.hackerrank.com/challenges/staircase/problem
-            E   TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
             /implementation
-            E   AngryProfessor: https://www.hackerrank.com/challenges/angry-professor/problem
-            E   BeautifulDaysAtTheMovies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
-            E   BetweenTwoSets: https://www.hackerrank.com/challenges/between-two-sets/problem
-            E   BonAppetit: https://www.hackerrank.com/challenges/bon-appetit/problem
-            E   BreakingTheRecords: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
-            E   DayOfTheProgrammer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
-            E   DesignerPDFViewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
-            E   DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
-            E   DrawingBook: https://www.hackerrank.com/challenges/drawing-book/problem
-            E   Kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
-            E   TheHurdleRace: https://www.hackerrank.com/challenges/the-hurdle-race/problem
-            E   MigrationBirds: https://www.hackerrank.com/challenges/migratory-birds/problem
-            E   UtopianTree: https://www.hackerrank.com/challenges/utopian-tree/problem
+            E   /AngryProfessor: https://www.hackerrank.com/challenges/angry-professor/problem
+            E   /BeautifulDaysAtTheMovies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+            E   /BetweenTwoSets: https://www.hackerrank.com/challenges/between-two-sets/problem
+            E   /BonAppetit: https://www.hackerrank.com/challenges/bon-appetit/problem
+            E   /BreakingTheRecords: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+            E   /DayOfTheProgrammer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+            E   /DesignerPDFViewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+            E   /DivisibleSumPairs: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+            E   /DrawingBook: https://www.hackerrank.com/challenges/drawing-book/problem
+            E   /Kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
+            E   /TheHurdleRace: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+            E   /MigrationBirds: https://www.hackerrank.com/challenges/migratory-birds/problem
+            E   /UtopianTree: https://www.hackerrank.com/challenges/utopian-tree/problem
+            /sorting
+            E   /InsertionSort: https://www.hackerrank.com/challenges/insertionsort1/problem
+            E   /InsertionSort2: https://www.hackerrank.com/challenges/insertionsort2/problem
+            E   /IntroToTutorialChallenges: https://www.hackerrank.com/challenges/tutorial-intro/problem
+            /warmup
+            E   /MiniMaxSum: https://www.hackerrank.com/challenges/mini-max-sum/problem
+            E   /BirthdayCakeCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+            E   /CompareTheTriplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+            E   /DiagonalDifference: https://www.hackerrank.com/challenges/diagonal-difference/problem
+            E   /Staircase: https://www.hackerrank.com/challenges/staircase/problem
+            E   /TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
+        /java
+            /introduction
+            E   /CurrencyFormatter: https://www.hackerrank.com/challenges/java-currency-formatter/problem
+            E   /DataType: https://www.hackerrank.com/challenges/java-datatypes/problem
+            E   /DateAndTime: https://www.hackerrank.com/challenges/java-date-and-time/problem
+            E   /EndOfFile: https://www.hackerrank.com/challenges/java-end-of-file/problem
+            E   /IntToString: https://www.hackerrank.com/challenges/java-int-to-string/problem
+            E   /LoopsI: https://www.hackerrank.com/challenges/java-loops-i/problem
+            E   /LoopsII: https://www.hackerrank.com/challenges/java-loops/problem
+            E   /StaticInitializerBlock: https://www.hackerrank.com/challenges/java-static-initializer-block/problem
+            E   /StdinStdout: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem 
+            /objectorientedprogramming
+                /javainheritanceII
+                E   /Main: https://www.hackerrank.com/challenges/java-inheritance-2/problem
+                /javainterface
+                E   /Solution: https://www.hackerrank.com/challenges/java-interface/problem
+            /strings
+            E   /Anagrams: https://www.hackerrank.com/challenges/java-anagrams/problem
+            E   /StringIntroduction: https://www.hackerrank.com/challenges/java-strings-introduction/problem
+            E   /StringReverse: https://www.hackerrank.com/challenges/java-string-reverse/problem
+            E   /StringToken: https://www.hackerrank.com/challenges/java-string-tokens/problem
+            E   /Substring: https://www.hackerrank.com/challenges/java-substring/problem
+            E   /SubstringComparison: https://www.hackerrank.com/challenges/java-string-compare/problem
+            E   /SyntaxChecker: https://www.hackerrank.com/challenges/pattern-syntax-checker/problem
+            E   /ValidUsernameChecker: https://www.hackerrank.com/challenges/valid-username-checker/problem
+            /regex
+                E   /Regex: https://www.hackerrank.com/challenges/java-regex/problem
     /interview
         /array
         E   /Array2D: https://www.hackerrank.com/challenges/2d-array/problem
@@ -42,8 +73,8 @@ Contact: wenzaca@gmail.com
         E   /TwoStrings: https://www.hackerrank.com/challenges/two-strings/problem
         E   /RansomNote: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
         M   /CountTriplet: https://www.hackerrank.com/challenges/count-triplets-1/problem
-        M   /FrequencyQueries: https://www.hackerrank.com/challenges/frequency-queries --> TODO
-        M   /SherlockAndAnagrams: https://www.hackerrank.com/challenges/sherlock-and-anagrams   /problem  
+        M   /FrequencyQueries: https://www.hackerrank.com/challenges/frequency-queries/problem  --> TODO
+        M   /SherlockAndAnagrams: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem  
         /dynamicprogramming
         M   /MaxArraySum: https://www.hackerrank.com/challenges/max-array-sum/problem
         /graph
