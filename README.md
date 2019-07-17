@@ -37,6 +37,9 @@ Contact: wenzaca@gmail.com
             E   /Staircase: https://www.hackerrank.com/challenges/staircase/problem
             E   /TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
         /java
+            /bigdecimal
+            E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
+            E   /PrimalityTest: https://www.hackerrank.com/challenges/java-primality-test/problem
             /introduction
             E   /CurrencyFormatter: https://www.hackerrank.com/challenges/java-currency-formatter/problem
             E   /DataType: https://www.hackerrank.com/challenges/java-datatypes/problem
@@ -54,6 +57,7 @@ Contact: wenzaca@gmail.com
                 E   /Solution: https://www.hackerrank.com/challenges/java-interface/problem
             /strings
             E   /Anagrams: https://www.hackerrank.com/challenges/java-anagrams/problem
+            M   /Regex2DuplicateWord: https://www.hackerrank.com/challenges/duplicate-word/problem
             E   /StringIntroduction: https://www.hackerrank.com/challenges/java-strings-introduction/problem
             E   /StringReverse: https://www.hackerrank.com/challenges/java-string-reverse/problem
             E   /StringToken: https://www.hackerrank.com/challenges/java-string-tokens/problem
