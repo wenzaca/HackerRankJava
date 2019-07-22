@@ -38,6 +38,7 @@ Contact: wenzaca@gmail.com
             E   /TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
         /java
             /bigdecimal
+            M   /BigDecimal: https://www.hackerrank.com/challenges/java-bigdecimal/problem
             E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
             E   /PrimalityTest: https://www.hackerrank.com/challenges/java-primality-test/problem
             /introduction
