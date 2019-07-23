@@ -41,6 +41,9 @@ Contact: wenzaca@gmail.com
             M   /BigDecimal: https://www.hackerrank.com/challenges/java-bigdecimal/problem
             E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
             E   /PrimalityTest: https://www.hackerrank.com/challenges/java-primality-test/problem
+            /exceptionhandling
+            E   /TryCatch: https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem
+            E   /ExceptionHandling: https://www.hackerrank.com/challenges/java-exception-handling/problem
             /introduction
             E   /CurrencyFormatter: https://www.hackerrank.com/challenges/java-currency-formatter/problem
             E   /DataType: https://www.hackerrank.com/challenges/java-datatypes/problem
@@ -52,6 +55,10 @@ Contact: wenzaca@gmail.com
             E   /StaticInitializerBlock: https://www.hackerrank.com/challenges/java-static-initializer-block/problem
             E   /StdinStdout: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem 
             /objectorientedprogramming
+            E   /InstanceOf: https://www.hackerrank.com/challenges/java-instanceof-keyword/problem
+            E   /Iterator: https://www.hackerrank.com/challenges/java-iterator/problem
+            E   /MethodOverriding: https://www.hackerrank.com/challenges/java-method-overriding/problem
+            E   /MethodOverriding2: https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
                 /javainheritanceII
                 E   /Main: https://www.hackerrank.com/challenges/java-inheritance-2/problem
                 /javainterface
@@ -67,7 +74,7 @@ Contact: wenzaca@gmail.com
             E   /SyntaxChecker: https://www.hackerrank.com/challenges/pattern-syntax-checker/problem
             E   /ValidUsernameChecker: https://www.hackerrank.com/challenges/valid-username-checker/problem
             /regex
-                E   /Regex: https://www.hackerrank.com/challenges/java-regex/problem
+            E   /Regex: https://www.hackerrank.com/challenges/java-regex/problem
     /interview
         /array
         E   /Array2D: https://www.hackerrank.com/challenges/2d-array/problem
