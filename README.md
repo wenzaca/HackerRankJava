@@ -41,6 +41,11 @@ Contact: wenzaca@gmail.com
             M   /BigDecimal: https://www.hackerrank.com/challenges/java-bigdecimal/problem
             E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
             E   /PrimalityTest: https://www.hackerrank.com/challenges/java-primality-test/problem
+            /datastrcuture
+            E   /Array1D: https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
+            E   /Array2D: https://www.hackerrank.com/challenges/java-2d-array/problem
+            E   /SubArray: https://www.hackerrank.com/challenges/java-arraylist/problem
+            E   /SubArray: https://www.hackerrank.com/challenges/java-negative-subarray/problem
             /exceptionhandling
             E   /TryCatch: https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem
             E   /ExceptionHandling: https://www.hackerrank.com/challenges/java-exception-handling/problem
