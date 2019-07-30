@@ -14,7 +14,6 @@ public class Stack {
         openingClosingBrackets.put('(', ')');
 
 
-
         while (sc.hasNext()) {
             String input = sc.next();
 
@@ -27,7 +26,7 @@ public class Stack {
                     opening.push(c);
                 } else if (openingClosingBrackets.values().contains(c)) {
 
-                    if(opening.size() == 0 || !openingClosingBrackets.get(opening.pop()).equals(c)) {
+                    if (opening.size() == 0 || !openingClosingBrackets.get(opening.pop()).equals(c)) {
                         result = "false";
                         break;
                     }
