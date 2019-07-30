@@ -44,6 +44,7 @@ Contact: wenzaca@gmail.com
             /datastrcuture
             E   /Array1D: https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
             E   /Array2D: https://www.hackerrank.com/challenges/java-2d-array/problem
+            E   /ArrayList: https://www.hackerrank.com/challenges/java-arraylist/problem
             E   /Comparator: https://www.hackerrank.com/challenges/java-comparator/problem
             M   /Dequeue: https://www.hackerrank.com/challenges/java-dequeue/problem
             E   /HashSet: https://www.hackerrank.com/challenges/java-hashset/problem
@@ -52,7 +53,6 @@ Contact: wenzaca@gmail.com
             E   /Map: https://www.hackerrank.com/challenges/phone-book/problem
             E   /Sort: https://www.hackerrank.com/challenges/java-sort/problem
             M   /Stack: https://www.hackerrank.com/challenges/java-stack/problem
-            E   /SubArray: https://www.hackerrank.com/challenges/java-arraylist/problem
             E   /SubArray: https://www.hackerrank.com/challenges/java-negative-subarray/problem
             /exceptionhandling
             E   /TryCatch: https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem
