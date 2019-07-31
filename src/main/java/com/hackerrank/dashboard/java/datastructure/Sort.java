@@ -9,13 +9,13 @@ public class Sort {
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
 
-        java.util.List<Student> studentList = new java.util.ArrayList<>();
+        java.util.List<StudentCompare> studentList = new java.util.ArrayList<>();
         while (testCases > 0) {
             int id = in.nextInt();
             String fname = in.next();
             double cgpa = in.nextDouble();
 
-            Student st = new Student(id, fname, cgpa);
+            StudentCompare st = new StudentCompare(id, fname, cgpa);
             studentList.add(st);
 
             testCases--;
@@ -23,16 +23,16 @@ public class Sort {
 
         studentList.sort(new StudentComparator());
 
-        for (Student st : studentList) {
+        for (StudentCompare st : studentList) {
             System.out.println(st.getFname());
         }
     }
 }
 
-class StudentComparator implements Comparator<Student> {
+class StudentComparator implements Comparator<StudentCompare> {
 
     @Override
-    public int compare(Student s1, Student s2) {
+    public int compare(StudentCompare s1, StudentCompare s2) {
         if (s1.getCgpa() > s2.getCgpa()) return -1;
         if (s1.getCgpa() < s2.getCgpa()) return 1;
         else {
@@ -42,12 +42,12 @@ class StudentComparator implements Comparator<Student> {
     }
 }
 
-class Student {
+class StudentCompare {
     private int id;
     private String fname;
     private double cgpa;
 
-    public Student(int id, String fname, double cgpa) {
+    public StudentCompare(int id, String fname, double cgpa) {
         super();
         this.id = id;
         this.fname = fname;

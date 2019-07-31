@@ -45,12 +45,14 @@ Contact: wenzaca@gmail.com
             E   /Array1D: https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
             E   /Array2D: https://www.hackerrank.com/challenges/java-2d-array/problem
             E   /ArrayList: https://www.hackerrank.com/challenges/java-arraylist/problem
+            E   /BitSet: https://www.hackerrank.com/challenges/java-bitset/problem
             E   /Comparator: https://www.hackerrank.com/challenges/java-comparator/problem
             M   /Dequeue: https://www.hackerrank.com/challenges/java-dequeue/problem
             E   /HashSet: https://www.hackerrank.com/challenges/java-hashset/problem
             E   /Generics: https://www.hackerrank.com/challenges/java-generics/problem
             E   /List: https://www.hackerrank.com/challenges/java-list/problem
             E   /Map: https://www.hackerrank.com/challenges/phone-book/problem
+            M   /PriorityQueue: https://www.hackerrank.com/challenges/java-priority-queue/problem
             E   /Sort: https://www.hackerrank.com/challenges/java-sort/problem
             M   /Stack: https://www.hackerrank.com/challenges/java-stack/problem
             E   /SubArray: https://www.hackerrank.com/challenges/java-negative-subarray/problem
