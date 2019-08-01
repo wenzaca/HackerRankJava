@@ -37,6 +37,11 @@ Contact: wenzaca@gmail.com
             E   /Staircase: https://www.hackerrank.com/challenges/staircase/problem
             E   /TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
         /java
+            /advanced
+            M   /CanYouAccess: https://www.hackerrank.com/challenges/can-you-access/problem
+            E   /FactoryPattern: https://www.hackerrank.com/challenges/java-factory/problem
+            M   /PrimeChecker: https://www.hackerrank.com/challenges/prime-checker/problem
+            E   /ReflectionAttributes: https://www.hackerrank.com/challenges/java-reflection-attributes/problem
             /bigdecimal
             M   /BigDecimal: https://www.hackerrank.com/challenges/java-bigdecimal/problem
             E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
