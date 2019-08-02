@@ -5,7 +5,7 @@ The challenges are available in [Hackerrank](https://www.hackerrank.com/) websit
 
 Fell free to reach me out with better solutions. I would love to get mine improved.
 
-The classes may have junit 4 for testing. Asserts have been used as well.
+The classes may have junit 4 for testing with asserts.
 
 Contact: wenzaca@gmail.com
     
@@ -42,6 +42,8 @@ Contact: wenzaca@gmail.com
             E   /FactoryPattern: https://www.hackerrank.com/challenges/java-factory/problem
             M   /PrimeChecker: https://www.hackerrank.com/challenges/prime-checker/problem
             E   /ReflectionAttributes: https://www.hackerrank.com/challenges/java-reflection-attributes/problem
+            E   /SingletonPattern: https://www.hackerrank.com/challenges/java-singleton/problem
+            E   /VarargSimpleAddition: https://www.hackerrank.com/challenges/simple-addition-varargs/problem
             /bigdecimal
             M   /BigDecimal: https://www.hackerrank.com/challenges/java-bigdecimal/problem
             E   /BigInteger: https://www.hackerrank.com/challenges/java-biginteger/problem
