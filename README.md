@@ -39,7 +39,9 @@ Contact: wenzaca@gmail.com
         /java
             /advanced
             M   /CanYouAccess: https://www.hackerrank.com/challenges/can-you-access/problem
+            E   /Covariance: https://www.hackerrank.com/challenges/java-covariance/problem
             E   /FactoryPattern: https://www.hackerrank.com/challenges/java-factory/problem
+            M   /LambdaExpression: https://www.hackerrank.com/challenges/java-lambda-expressions/problem
             M   /PrimeChecker: https://www.hackerrank.com/challenges/prime-checker/problem
             E   /ReflectionAttributes: https://www.hackerrank.com/challenges/java-reflection-attributes/problem
             E   /SingletonPattern: https://www.hackerrank.com/challenges/java-singleton/problem
