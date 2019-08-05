@@ -38,12 +38,15 @@ Contact: wenzaca@gmail.com
             E   /TimeConversion: https://www.hackerrank.com/challenges/time-conversion/problem
         /java
             /advanced
+            M   /Annotations: https://www.hackerrank.com/challenges/java-annotations/problem
             M   /CanYouAccess: https://www.hackerrank.com/challenges/can-you-access/problem
             E   /Covariance: https://www.hackerrank.com/challenges/java-covariance/problem
             E   /FactoryPattern: https://www.hackerrank.com/challenges/java-factory/problem
             M   /LambdaExpression: https://www.hackerrank.com/challenges/java-lambda-expressions/problem
+            M   /MD5: https://www.hackerrank.com/challenges/java-md5/problem
             M   /PrimeChecker: https://www.hackerrank.com/challenges/prime-checker/problem
             E   /ReflectionAttributes: https://www.hackerrank.com/challenges/java-reflection-attributes/problem
+            M   /SHA256: https://www.hackerrank.com/challenges/sha-256/problem
             E   /SingletonPattern: https://www.hackerrank.com/challenges/java-singleton/problem
             E   /VarargSimpleAddition: https://www.hackerrank.com/challenges/simple-addition-varargs/problem
             /bigdecimal
