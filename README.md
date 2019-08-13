@@ -99,6 +99,7 @@ Contact: wenzaca@gmail.com
             E   /Substring: https://www.hackerrank.com/challenges/java-substring/problem
             E   /SubstringComparison: https://www.hackerrank.com/challenges/java-string-compare/problem
             E   /SyntaxChecker: https://www.hackerrank.com/challenges/pattern-syntax-checker/problem
+            M   /TagContentExtractor: https://www.hackerrank.com/challenges/tag-content-extractor/problem
             E   /ValidUsernameChecker: https://www.hackerrank.com/challenges/valid-username-checker/problem
             /regex
             E   /Regex: https://www.hackerrank.com/challenges/java-regex/problem
